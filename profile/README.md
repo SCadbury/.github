@@ -1,7 +1,7 @@
 ## 🎉 Welcome to Cadbury Style! / ¡Bienvenido a Cadbury Style! 🍫
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cadbury_logo_new.jpg" alt="Cadbury Style Logo" width="300"/>
+  <img src="https://icon2.cleanpng.com/20180725/ktr/8423756d97627698fc9f6d3b16b8edcc.webp" alt="Cadbury Style Logo" width="300"/>
 </p>
 
 🇺🇸:  
