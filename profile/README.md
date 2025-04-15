@@ -1,4 +1,4 @@
-<h2>Welcome to Cadbury Style! / ¡Bienvenido a Cadbury Style! 🍫</h2>
+<h1 align="center">Welcome to Cadbury Style! / ¡Bienvenido a Cadbury Style! 🍫</h1>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cadbury_logo_new.jpg" alt="Cadbury Style Logo" width="300"/>
